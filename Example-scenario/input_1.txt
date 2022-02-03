@@ -1,0 +1,15 @@
+g = 9.8
+r = 0.973
+whichfric = 1
+twolayer = 1
+n = 0.021
+fi_eq = 9
+vis = 1e-06
+Lstart = 0
+Lend = 25000
+dx = 50
+T = 432000
+dt = 0.9
+t_rec = 3600
+solver = 12
+initial = 0
